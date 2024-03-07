@@ -115,6 +115,7 @@
                         android:layout_weight="1"/>
 
                     <ImageView
+                        android:id="@+id/fingerprint"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:src="@drawable/fingerprint"
@@ -122,8 +123,6 @@
                         android:layout_weight="1"/>
 
                 </LinearLayout>
-
-
 
             </RelativeLayout>
 
